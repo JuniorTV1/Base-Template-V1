@@ -1,4 +1,4 @@
-<h1 align='center'>J-HUD</h1>
+<h1 align='center'>Base Template V1.0.0</h1>
 <p align='center'>
   <b><a href="https://discord.gg/cCHjxuYfRY" target="_blank">
     <img src="https://img.shields.io/badge/Discord-Join%20Us-5865F2?logo=discord&style=for-the-badge" alt="Discord">
