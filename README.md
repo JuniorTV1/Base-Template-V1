@@ -8,10 +8,10 @@
 Base Template V1.0.0
 
 ## Video Presentation
-![Junior Développement](https://youtu.be/3HxibX_Wb5o)
+[![[FREE] Base Template V1 | Présentation 0.30ms](https://img.youtube.com/vi/3HxibX_Wb5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=3HxibX_Wb5o)
 
 ## Information
 - ⚠️ Here's the first version of Sky Développement's Base Template. For your information, some scripts are created by other designers and reworked by Junior. I don't own any of these scripts!
 
 ## Video Installation
-![Junior Développement](https://youtu.be/3HxibX_Wb5o)
+[![[FREE] Base Template V1 | Présentation 0.30ms](https://img.youtube.com/vi/3HxibX_Wb5o/maxresdefault.jpg)](https://www.youtube.com/watch?v=3HxibX_Wb5o)
