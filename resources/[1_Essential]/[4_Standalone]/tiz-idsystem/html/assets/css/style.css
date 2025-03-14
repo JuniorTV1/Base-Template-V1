@@ -1,0 +1,79 @@
+@font-face {
+  font-family: justsignature;
+  src: url('../fonts/justsignature/JustSignature.woff');
+}
+body, html {
+  width: 100%;
+  height: 100%;
+}
+p {
+  padding: 0;
+  margin: 0;
+  text-transform: uppercase;
+  color: #9e9e9e;
+  font-size: 12px;
+}
+#id-card {
+  position: relative;
+  display: none;
+  margin: 230px 50px 0 0;
+  float: right;
+  width: 432px;
+  height: 245px;
+  padding: 54px 17px 10px 144px;
+  background: url("../images/idcard.png");
+}
+img {
+  position: absolute;
+  left:7px;
+  top:5px;
+}
+
+#inline {
+  position: absolute;
+  top: 109px;
+}
+#name {
+  position: absolute;
+  top: 77px; /* Ajusté pour aligner correctement le prénom */
+  left: 290px; /* Position horizontale */
+  font-weight: bold;
+  font-size: 14px;
+  color: #000; /* Texte noir */
+}
+
+#dob {
+  position: absolute;
+  top: 10px; /* Ajusté pour aligner correctement le prénom */
+  left: 177px; /* Position horizontale */
+  font-weight: bold;
+  font-size: 14px;
+  color: #000; /* Texte noir */
+}
+
+#sex {
+  position: absolute;
+  top: 30px; /* Ajusté pour aligner correctement le prénom */
+  left: 236px; /* Position horizontale */
+  font-weight: bold;
+  font-size: 14px;
+  color: #000; /* Texte noir */
+}
+
+#height { 
+  position: absolute;
+  top: -10px; /* Ajusté pour aligner correctement le prénom */
+  left: 227px; /* Position horizontale */
+  font-weight: bold;
+  font-size: 14px;
+  color: #000; /* Texte noir */
+ } 
+
+#licenses {
+  position: absolute;
+  top: 180px; /* Position pour les licences (si nécessaire) */
+  left: 300px;
+  font-weight: bold;
+  font-size: 14px;
+  color: #000;
+}
